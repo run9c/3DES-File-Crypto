@@ -22,8 +22,15 @@
 
 ```python 3des_file_crypto.py```
 
+## Encryption 👇
 <img src="https://github.com/run9c/3DES-File-Crypto/blob/main/assets/encrypt.png">
+
+## After Encryption 👇
 <img src="https://github.com/run9c/3DES-File-Crypto/blob/main/assets/result.png">
-<img src="https://github.com/run9c/3DES-File-Crypto/tree/main/assets/decrypt.png">
-<img src="https://github.com/run9c/3DES-File-Crypto/tree/main/assets/result-1.png">
+
+## Decryption 👇
+<img src="https://github.com/run9c/3DES-File-Crypto/blob/main/assets/decrypt.png">
+
+## After Decryption
+<img src="https://github.com/run9c/3DES-File-Crypto/blob/main/assets/result-1.png">
 
